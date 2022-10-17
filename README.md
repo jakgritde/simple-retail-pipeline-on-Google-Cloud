@@ -46,6 +46,7 @@ Note: To do this you need access to a project that links to Billing Account. (Th
 ![](images/retail-pipeline-job-run.png)
 
 **Step 7:** Go to BigQuery to see the result  
+
 ![](images/retail-pipeline-bigquery.png)
 
 **Step 8:** Create DASHBOARD using Google Data Studio    
